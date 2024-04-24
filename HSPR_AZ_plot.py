@@ -8,7 +8,7 @@ version
     HSPR_AZ_v3.py 0.0.2 (alpha)
 
 dependencies
-    Python v3.9.7, Scipy v1.11.2, NumPy v1.22.2, viennarna v2.5.1, Matplotlib v3.5.1, pandas v2.1.0
+    Python v3.9.7, Scipy v1.11.2, NumPy v1.22.2, Matplotlib v3.5.1, pandas v2.1.0
 
 description
     Re-organised the original code in functions. Introduced parser & flags for easy change of iteration numbers and time step. (HSPR_AZ_tidy.py)
