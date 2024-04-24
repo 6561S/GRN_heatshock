@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # script: HSPR_AZ_tidy.py
-# author: Rituparna Goswami, Enrico Sandro Colizzi, Alexis Jiayi Zeng
 script_usage="""
 usage
     HSPR_AZ_plot.py -ids <importDataSuffix> [options]
