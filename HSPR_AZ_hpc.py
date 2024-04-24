@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # script: HSPR_AZ_tidy.py
-# author: Rituparna Goswami, Enrico Sandro Colizzi, Alexis Jiayi Zeng
 script_usage="""
 usage
     For de novo parameter setting: HSPR_AZ_hpc.py -nit <numberInteration> -wa2 <withA2> -mdn <modelVersion> [options]
